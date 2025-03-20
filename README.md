@@ -17,5 +17,13 @@ A Machine Learning-based **Cricket Score Predictor** that leverages historical m
 3️⃣ **Model Training:** Implements **ML algorithms** to classify and predict match scores.  
 4️⃣ **Prediction Output:** Provides score estimations based on given inputs.  
 
+## 📸 **Output Screenshots**  
+
+### 🏏 **Input Data Sample**  
+![Input Data](assests/sample_input_data.png)  
+
+### 📊 **Prediction Result**  
+![Prediction Output](assests/prediction_results.png)    
+
 ## 🎯 **Why This Project?**  
 This predictor is a **fun yet powerful tool** that showcases how machine learning can be applied in sports analytics. Whether you're a **data scientist or a cricket enthusiast**, this project will give you a deeper understanding of how past game trends influence future match predictions.  
